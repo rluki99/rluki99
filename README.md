@@ -3,7 +3,7 @@ Hi 👋 my name is Łukasz Beczek
 
 <hr/>
 
-👋 Hi, I'm Lukas - an IT engineer, IT specialist and graphic designer from Lublin. Currently, I have almost 3 years of experience as an IT Specialist and 2 years related to graphics. However, my real passion is front-end programming.
+👋 Hi, I'm Lukas - an IT engineer, IT specialist and graphic designer from Lublin. Currently, I have almost 3 years of experience as an IT Specialist and 2 years related to graphics. However, my real passion is front-end development.
 
 🚀 My path towards being a Front-end programmer is set through systematic learning and practice in the field of web technologies.
 
