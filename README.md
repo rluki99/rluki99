@@ -19,7 +19,7 @@ Hi 👋 my name is Łukasz Beczek
 
 ### My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,gulp,babel,webpack,vite,vue,nodejs,git,github,php,wordpress,ps,figma)]()
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,gulp,babel,webpack,vite,vue,nodejs,git,github,php,wordpress,ps,figma,supabase,firebase)]()
 
 
 ### My Socials
