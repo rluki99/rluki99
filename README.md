@@ -9,7 +9,7 @@ Hi 👋 my name is Łukasz Beczek
 
 🎓 I am a graduate of Lublin University of Technology, majoring in Computer Science. In the near future, I aim to get a job as a Front-end Developer, combining my graphic design skills with creating interactive and responsive interfaces.
 
-🌐 In my development process, I have acquired and am constantly developing skills in: JavaScript, SCSS, HTML5, CSS3, Gulp, Webpack, Babel, BEM, WordPress, PHP, Git/GitHub, Node.js, Vue3, Vite, Photoshop, Figma. I am ready to learn more technologies and new challenges.
+🌐 In my development process, I have acquired and am constantly developing skills in: JavaScript, CSS3, SCSS, BEM, HTML5, Vue3, Vue Router, Pinia, Gulp, Webpack, Vite, Parcel, Babel, Git/GitHub, WordPress, ProcessWire, PHP, Lazy Blocks, Node.js, NPM, NVM, Figma, Photoshop, UI/UX, ClickUp, Supabase, Firebase. I am ready to learn more technologies and tools and take on new challenges.
 
 💼 At the moment, I am actively involved in a charity project to create a new website for an animal shelter, working in a team of 8 developers. I believe in the power of technology to create a positive impact in the community. I also have behind me my first semi-commercial project created for mobile wedding services.
 
